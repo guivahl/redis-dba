@@ -16,3 +16,7 @@ Projeto final da cadeira de Banco de dados Avançado realizada no curso de Ciên
 2. Instale os pacotes utilizando o comando `npm install`
 3. Crie um arquivo `.env` na raiz do projeto e insira suas credencias. Utilize o arquivo `.env.example` como base.
 4. Rode o projeto com o comando `npm start`
+
+## Contribuicoes
+
+- Esse projeto possui uma estrutura front-end que integra com nosso servico. A aplicacao pode ser encontrada no seguinte [link](https://github.com/Fernanda-Kipper/membership-frontend).
